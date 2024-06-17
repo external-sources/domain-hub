@@ -26,6 +26,7 @@ wisdom, then he needs to rely on his ravens to obtain knowledge from the nine re
 8. Future, working with a webcrawler that can categorize sites and scripts to search for primarily trackers and adult
    sites
 9. Add a GUI to manage all of this, rather than console as we also have to work with several categories per record.
+   1. Suggested to use gtk-rs, or maybe relm, which wraps gtk-rs (https://matrix.to/#/!ifW4td0it0scmZpEM6:computer.surgery/$PA9YBwGw53VA6HNePqQ4hrOIbVpWktIlrnytCOQRLZo?via=computer.surgery&via=matrix.org&via=mozilla.org)
 
 ## About Yggdrasil
 

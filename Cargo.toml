@@ -1,6 +1,5 @@
 [package]
 name = "yggdrasil"
-package-name = "yggdrasil"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.79.0"
@@ -10,12 +9,11 @@ categories = ["parsing", "command-line-utilities"]
 keywords = ["search", "blacklist", "domain", "rpz", "firewall"]
 documentation = "https://github.com/external-sources/yggdrasil/README.md"
 readme = "README.md"
-license = "AGPL-3.0-or-later AND CC-BY-NC-SA-4.0"
+# license = "AGPL-3.0-or-later AND CC-BY-NC-SA-4.0"
 homepage = "https://github.com/external-sources/yggdrasil"
 repository = "https://github.com/external-sources/yggdrasil"
 license-file = "LICENSE"
-publish = false
-publish = ["yggdrasil"]
+publish = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
