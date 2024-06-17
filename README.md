@@ -25,6 +25,7 @@ wisdom, then he needs to rely on his ravens to obtain knowledge from the nine re
 7. Incorporate PyFunceble for availability test before committing
 8. Future, working with a webcrawler that can categorize sites and scripts to search for primarily trackers and adult
    sites
+9. Add a GUI to manage all of this, rather than console as we also have to work with several categories per record.
 
 ## About Yggdrasil
 
